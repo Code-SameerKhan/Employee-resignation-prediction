@@ -6,7 +6,8 @@
 * Engineered features to calculate dependencies of the target variable on the independent variables.
 * Optimized Logistic, Random Forest, Decision Tree and Naive Bayes classifier using GridSearchCV to reach best model.
 * Achieved an accuracy of 90.62% in correctly predicting the outcome.
-* Getting to understand employees is a major task in any successful organization. Various factors combine enough to create a snowball effect in the minds of employee on whether he/she sees the future of oneself in their current working environment.
+
+Getting to understand employees is a major task in any successful organization. Various factors combine enough to create a snowball effect in the minds of employee on whether he/she sees the future of oneself in their current working environment.
 
 Some of the major factors include Salary, Satisfaction level, promotion, average working hours, etc… By correlating the different features we can arrive on a decision based on the prediction. Since the output here is whether the employee leaves or not therefore it is termed as a classification problem.
 
