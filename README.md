@@ -29,4 +29,4 @@ By employing the GridSearchCV on the above classifying algorithms we conclude-
 
 Decision Tree classifier to be optimum with 90.62% accuracy
 
-![Demo](employeeresignation/data/employee_demo.webm)
+![Demo](visuals/employee-demo.gif)
