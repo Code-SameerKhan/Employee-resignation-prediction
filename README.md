@@ -1,6 +1,8 @@
 # Employee resignation prediction
 # Summary
 
+![](visuals/dist_feature.png)
+
 * Created a tool that predicts when an employee is going to resign in order to help perfect employee management and improve working space environment.
 * Based on the public release data available on Kaggle, the features are employed.
 * Engineered features to calculate dependencies of the target variable on the independent variables.
