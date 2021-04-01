@@ -17,10 +17,10 @@ Some of the major factors include Salary, Satisfaction level, promotion, average
 
 # Dataset
 
-This dataset consists of following features-
-<details>
+This dataset consists of <details>
   <summary>Features
 </summary>
+
 
 - Satisfaction Level
 - Last Evaluation
