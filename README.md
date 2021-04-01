@@ -63,7 +63,9 @@ This dataset consists of <details>
 3. Scaling the features
 * Sklearn's preprocessing library contains Standard Scalar which scales the data points with help of mean and standard deviation of the data.
 
-* A classification model attempts to draw some conclusion from observed values. Given one or more inputs a classification model will try to predict the value of one or more outcomes.
+# Model building
+* A classification model attempts to draw some conclusion from observed values.
+* Given continuious or categorical or both faetures, the model classifies according to the target class.
 * Popular algorithms that can be used for binary classification include:
 
 1. Logistic Regression
@@ -71,6 +73,14 @@ This dataset consists of <details>
 3. Decision Trees
 4. Support Vector Machine
 5. Naive Bayes
+
+
+# Determining important features
+
+* sklearn's emsmble library lets us access Random Forest ML technique which helps in determining important features
+* with the help of Streamlit's button fuction, features can be showcased to the user.
+
+[](visuals/)
 
 By employing the GridSearchCV on the above classifying algorithms we conclude-
 
