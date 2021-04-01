@@ -80,7 +80,8 @@ This dataset consists of <details>
 * sklearn's emsmble library lets us access Random Forest ML technique which helps in determining important features
 * with the help of Streamlit's button fuction, features can be showcased to the user.
 
-![Features](visuals/Emp-app-features.gif)
+[](visuals/features.png)
+
 
 By employing the GridSearchCV on the above classifying algorithms we conclude-
 
@@ -93,6 +94,9 @@ SVC of support vector machine to be optimum with 95% accuracy
 * More about this framework [Here](https://streamlit.io/)
 * Here is demo of the API
 ![Demo](visuals/employee-demo.gif)
+
+* With user clicking a button, important features can be seen.
+![Features](visuals/Emp-app-features.gif)
 
 # Built with
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
