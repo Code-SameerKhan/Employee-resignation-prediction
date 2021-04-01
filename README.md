@@ -53,6 +53,16 @@ This dataset consists of <details>
 
 ![](visuals/dynamic-relationship.png)
 
+# Preprocessing
+
+* It consisted of 3 major parts:
+1. Handling class imbalance
+* It is done using [SMOTE](https://www.geeksforgeeks.org/ml-handling-imbalanced-data-with-smote-and-near-miss-algorithm-in-python/)
+2. Handling non numerical features
+* Achieved with help of Dummy variables created with Pandas get_dummy function
+3. Scaling the features
+* Sklearn's preprocessing library contains Standard Scalar which scales the data points with help of mean and standard deviation of the data.
+
 * A classification model attempts to draw some conclusion from observed values. Given one or more inputs a classification model will try to predict the value of one or more outcomes.
 * Popular algorithms that can be used for binary classification include:
 
