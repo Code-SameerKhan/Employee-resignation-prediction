@@ -6,6 +6,8 @@
 * Engineered features to calculate dependencies of the target variable on the independent variables.
 * Optimized Logistic, Random Forest, Decision Tree and Support vector classifier using GridSearchCV to reach best model.
 * Achieved an accuracy of 95% in correctly predicting the outcome.
+* Developed a public facing API for live user interaction using Streamlit imported as library.
+* Deployed the Web App based on cloud application platform as a service through Heroku.
 
 
 Getting to understand employees is a major task in any successful organization. Various factors combine enough to create a snowball effect in the minds of employee on whether he/she sees the future of oneself in their current working environment.
@@ -23,13 +25,15 @@ This dataset consists of following features-
 - Satisfaction Level
 - Last Evaluation
 - Number of Projects
-- Average Montly hours of work
+- Average Monthly hours of work
 - Time in the company
 - Work_accidentleft
 - Promotion in last 5 years
 - Department
 - Salary range
 </details>
+
+# 
 
 ![](visuals/dist_feature.png)
 
