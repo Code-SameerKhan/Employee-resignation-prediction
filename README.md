@@ -33,9 +33,14 @@ This dataset consists of following features-
 - Salary range
 </details>
 
-# 
+# Data Distribution
 
 ![](visuals/dist_feature.png)
+
+* Features like Satisfaction level, Monthly hours and Last evaluation shows normal distribution.
+* The target variable 'Left' tells whether an employee is quitting or not.
+* Value '1' indicated resignation whereas '0' implies employee is likely to stay.
+* Before the preprocessing the data, the imbalance of the dataset needs to be handeled.
 
 
 ![](visuals/feature-impact.png)
