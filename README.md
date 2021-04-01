@@ -80,7 +80,7 @@ This dataset consists of <details>
 * sklearn's emsmble library lets us access Random Forest ML technique which helps in determining important features
 * with the help of Streamlit's button fuction, features can be showcased to the user.
 
-[](visuals/Emp-app-features.gif)
+![Features](visuals/Emp-app-features.gif)
 
 By employing the GridSearchCV on the above classifying algorithms we conclude-
 
