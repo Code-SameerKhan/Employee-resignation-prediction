@@ -1,4 +1,4 @@
-# Employee resignation prediction
+# Employee Resignation Prediction
 
 # Summary
 * Created a tool that predicts when an employee is going to resign in order to help perfect employee management and improve working space environment.
