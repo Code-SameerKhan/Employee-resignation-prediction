@@ -35,6 +35,10 @@ This dataset consists of <details>
 
 # Data Distribution
 
+* Plotting the data points lets us understand the distribution
+* Helps in deriving trends and draw conclusion
+* Indicates the features that needs preprocessing
+
 ![](visuals/dist_feature.png)
 
 * Features like Satisfaction level, Monthly hours and Last evaluation shows normal distribution.
@@ -43,13 +47,14 @@ This dataset consists of <details>
 * Before the preprocessing the data, the imbalance of the dataset needs to be handeled.
 
 
-![](visuals/feature-impact.png)
+# Relationship of the target variable with independent variables
 
-A classification model attempts to draw some conclusion from observed values. Given one or more inputs a classification model will try to predict the value of one or more outcomes.
+![](visuals/feature-impact.png)
 
 ![](visuals/dynamic-relationship.png)
 
-Popular algorithms that can be used for binary classification include:
+* A classification model attempts to draw some conclusion from observed values. Given one or more inputs a classification model will try to predict the value of one or more outcomes.
+* Popular algorithms that can be used for binary classification include:
 
 1. Logistic Regression
 2. k-Nearest Neighbors
