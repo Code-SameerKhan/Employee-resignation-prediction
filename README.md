@@ -1,17 +1,38 @@
 # Employee resignation prediction
+
 # Summary
-
-![](visuals/dist_feature.png)
-
 * Created a tool that predicts when an employee is going to resign in order to help perfect employee management and improve working space environment.
 * Based on the public release data available on Kaggle, the features are employed.
 * Engineered features to calculate dependencies of the target variable on the independent variables.
-* Optimized Logistic, Random Forest, Decision Tree and Naive Bayes classifier using GridSearchCV to reach best model.
-* Achieved an accuracy of 90.62% in correctly predicting the outcome.
+* Optimized Logistic, Random Forest, Decision Tree and Support vector classifier using GridSearchCV to reach best model.
+* Achieved an accuracy of 95% in correctly predicting the outcome.
+
 
 Getting to understand employees is a major task in any successful organization. Various factors combine enough to create a snowball effect in the minds of employee on whether he/she sees the future of oneself in their current working environment.
 
 Some of the major factors include Salary, Satisfaction level, promotion, average working hours, etc… By correlating the different features we can arrive on a decision based on the prediction. Since the output here is whether the employee leaves or not therefore it is termed as a classification problem.
+
+
+# Dataset
+
+This dataset consists of following features-
+<details>
+  <summary>Features
+</summary>
+
+- Satisfaction Level
+- Last Evaluation
+- Number of Projects
+- Average Montly hours of work
+- Time in the company
+- Work_accidentleft
+- Promotion in last 5 years
+- Department
+- Salary range
+</details>
+
+![](visuals/dist_feature.png)
+
 
 ![](visuals/feature-impact.png)
 
