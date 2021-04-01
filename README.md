@@ -64,8 +64,14 @@ This dataset consists of <details>
 
 By employing the GridSearchCV on the above classifying algorithms we conclude-
 
-Decision Tree classifier to be optimum with 90.62% accuracy
+SVC of support vector machine to be optimum with 95% accuracy
 
+# User Interface
+
+* Creating a user interface lets new users to visualize practical application of a machine learning model. 
+* This WebApp is based on open source app framework called Streamlit.
+* More about this framework [Here](https://streamlit.io/)
+* Here is demo of the API
 ![Demo](visuals/employee-demo.gif)
 
 # Built with
