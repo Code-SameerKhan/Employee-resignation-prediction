@@ -80,7 +80,7 @@ This dataset consists of <details>
 
 # Determining important features
 
-* sklearn's emsmble library lets us access Random Forest ML technique which helps in determining important features
+* sklearn's Ensemble library lets us access Random Forest ML technique which helps in determining important features
 * with the help of Streamlit's button fuction, features can be showcased to the user.
 
 ![](visuals/features.png)
