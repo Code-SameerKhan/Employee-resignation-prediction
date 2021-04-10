@@ -68,7 +68,7 @@ This dataset consists of <details>
 
 # Model building
 * A classification model attempts to draw some conclusion from observed values.
-* Given continuious or categorical or both faetures, the model classifies according to the target class.
+* Given continuous or categorical or both faetures, the model classifies according to the target class.
 * Popular algorithms that can be used for binary classification include:
 
 1. Logistic Regression
@@ -81,7 +81,7 @@ This dataset consists of <details>
 # Determining important features
 
 * sklearn's Ensemble library lets us access Random Forest ML technique which helps in determining important features
-* with the help of Streamlit's button fuction, features can be showcased to the user.
+* with the help of Streamlit's button function, features can be showcased to the user.
 
 ![](visuals/features.png)
 
